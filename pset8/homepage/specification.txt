@@ -1,0 +1,21 @@
+10 HTML tags I have used are -
+1. Head
+2. Body
+3. Nav
+4. Div
+5. a
+6. ul
+7. li
+8. p
+9. h1
+10. hr
+
+5 CSS properties I have used are -
+1. .selector-for-some-widget
+2. body
+3. h1
+4. img
+5. .card-footer
+
+I have used Bootstrap for convinience of pre-made styling so I don't have to configure/write CSS my self.
+I have used Javascript to implement addEventListener functionality.
